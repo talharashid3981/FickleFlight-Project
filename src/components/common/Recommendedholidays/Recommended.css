@@ -1,0 +1,31 @@
+.recommended{
+    width: 100%;
+    min-height: 260px;
+    border-radius: 10px;
+    padding: 0px;
+    border: 1px solid #ccc;
+
+}
+.recommended .RecommendedImg{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px 8px 0px 0px;
+}
+.packegDetails {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.packegDetails h2{
+    font-weight: 500;
+}
+.packegDetails span{
+    color: #8f8d8d;
+    font-weight: 300;
+}
+.packegDetails h1{
+    margin: 0;
+    color: #1262AF;
+}

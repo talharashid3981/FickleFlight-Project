@@ -1,0 +1,60 @@
+.popularstaydiv{
+    width: 100%;
+    /* height: 300px; */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+}
+.popularstaydiv .popularbanerimg{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.spandiv {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.spandiv .playbuttonimg{
+    width: 22px;
+}
+.detailsspan1 {
+    display: inline-block;
+    color: rgb(142, 142, 148)
+}
+.detils h2{
+    font-weight: 500;
+    margin: 5px 0px;
+}
+.detils p{
+    font-size: 17px;
+    font-weight: 400;
+}
+.rating {
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+.rating img{
+    width: 20px;
+}
+.detils button{
+    width: 100%;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: blue;
+    background: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.ratingnum{
+    font-weight: 500;
+    margin: 0px 20px 0px 10px;
+}
+.reviews {
+    color: rgb(47, 47, 235);
+}

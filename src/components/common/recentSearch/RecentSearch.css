@@ -1,0 +1,25 @@
+.Recearchdiv{
+    width: 50%;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+.Recearchdiv1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Recearchdiv1 h1{
+    color:rgb(18, 98, 174);
+}
+.Recearchdiv1 img{
+    width: 130px;
+}
+.Recearchdiv2{
+    margin-top: 15px;
+    text-align: center;
+}
+.Recearchdiv2 h1 span{
+    font-weight: 400;
+}

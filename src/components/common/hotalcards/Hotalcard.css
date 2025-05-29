@@ -1,0 +1,55 @@
+.hotalcarddiv{
+    width: 100%;
+    display: flex;   
+    margin-bottom: 10px; 
+}
+ 
+.hotalcarddiv2 {
+    width: 60%;
+    background-color: #e9f0f7;
+    padding: 15px;
+    border-radius: 0px 10px 10px 0px ;
+}
+.hotaclcardimgbox{
+    width: 40%;
+}
+.hotaclcardimgbox  img{
+
+    width: 100%;
+    height: 100%;
+    border-radius: 10px 0px 0px 10px;
+    object-fit: cover;
+}
+.hottalinformationbox h1{
+    max-width: 300px; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.hottalinformationbox img{
+    width: 20px;
+}
+.hotalcarddiv2 button{
+    /* width: 50%; */
+    padding: 15px 30px;
+    background: blue;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-top: 10px;
+}
+.hotalcarddiv2 .pricess{
+    margin-top: 30px;
+}
+.pricess {
+    display: flex;
+    align-items: center;
+}
+.ratingbox{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 5px;
+}

@@ -1,0 +1,27 @@
+.Destinationbox{
+    width: 100%;
+    max-height: 200px;
+    position: relative;
+    border-radius: 10px;
+}
+.Destinationbox1 {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+}
+.Destinationbox1 h3{
+    color: white;
+}
+.Destinationbox1 h1{
+    text-align: end;
+    margin: 0;
+    color: white
+}
+.Destinationbox img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
